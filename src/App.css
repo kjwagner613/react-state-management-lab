@@ -2,6 +2,12 @@
   margin: 16px;
 }
 
+body {
+  height: 80vh;
+  display: flex;
+}
+
+
 ul {
   display: flex;
   flex-wrap: wrap;
